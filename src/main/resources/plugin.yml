@@ -1,0 +1,7 @@
+name: ModuleManager
+version: '${project.version}'
+main: me.revoltix.moduleloader.ModuleLoader
+api-version: 1.16
+load: STARTUP
+commands:
+  modules:
